@@ -4,6 +4,12 @@ Welcome to the **Solana Wallet Bot**! This bot enables users to interact with th
 
 ---
 
+## 📺 Demo
+
+See how the Solana Wallet Bot for Slack works in this short demo video:
+
+[▶️ Click here to watch the demo video on Google Drive](https://drive.google.com/file/d/1vYNMFkkoUl_GYcmZnMNg73b3D4QfmpIy/view?usp=sharing)
+
 ## 📢 Contributing
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
