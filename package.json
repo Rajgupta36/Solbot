@@ -1,0 +1,28 @@
+{
+  "name": "bonkbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write .",
+    "dev": "tsc -b && node dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@prisma/client": "^6.7.0",
+    "@slack/bolt": "^4.2.1",
+    "@solana/web3.js": "^1.98.2",
+    "bcrypt": "^5.1.1",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "typescript": "^5.8.3"
+  },
+  "devDependencies": {
+    "prettier": "^3.5.3",
+    "prisma": "^6.7.0"
+  }
+}

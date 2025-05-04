@@ -1,0 +1,15 @@
+Command received: [Object: null prototype] {
+  token: 'wi6GkDhUEACszWfhsTrHpciJ',
+  team_id: 'T0878AADTBL',
+  team_domain: 'bottesting-1jj9498',
+  channel_id: 'D08QULP48EQ',
+  channel_name: 'directmessage',
+  user_id: 'U08787T3J9Z',
+  user_name: 'raj.gupta369',
+  command: '/start',
+  text: '',
+  api_app_id: 'A08QULE25V2',
+  is_enterprise_install: 'false',
+  response_url: 'https://hooks.slack.com/commands/T0878AADTBL/8840343258517/NQRl3opc5GvyT4IL7a3iMznW',
+  trigger_id: '8840343259429.8246350469394.e16d3fd67e3e65907cca82eae2fd915e'
+}
