@@ -13,7 +13,7 @@ const { App } = require('@slack/bolt');
 require('dotenv').config();
 const bcrypt = require('bcrypt');
 
-const connection = new Connection('https://api.devnet.solana.com');
+const connection = new Connection(process.env.SOLANA_RPC_URL);
 const saltRounds = 10;
 
 const app = new App({
